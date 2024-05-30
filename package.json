@@ -1,0 +1,22 @@
+{
+  "name": "eventemitterservice",
+  "version": "1.0.0",
+  "description": "event service making use of nodejs event package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swathidevdynamo/eventemitterservice.git"
+  },
+  "author": "Swathi Munnangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swathidevdynamo/eventemitterservice/issues"
+  },
+  "homepage": "https://github.com/swathidevdynamo/eventemitterservice#readme",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
